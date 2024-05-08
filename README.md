@@ -1,4 +1,5 @@
-# Some pictures from my Snake Game Project
+# Snake Game Project developed in C# .NET 
+## Some pictures from my Snake Game Project
 
 ![Snake Game Pictures](https://github.com/enginnturabik/Snake-Game/assets/97890688/a622b49c-a770-49ab-a041-76dd64601183)
 ![Snake Game 4](https://github.com/enginnturabik/Snake-Game/assets/97890688/b781a677-56e1-40c1-a04e-f480435ce1c8)
